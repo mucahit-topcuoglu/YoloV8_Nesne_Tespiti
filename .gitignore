@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+sanal_ortam/
+venv/
+ENV/
+
+# Dataset
+# Büyük veri dosyalarını ve geçici dosyaları hariç tutmak için örnek:
+dataset/
+*.zip
+*.tar
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model ağırlıkları
+*.pt
+*.h5
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
