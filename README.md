@@ -41,5 +41,7 @@ MIT
 
 ---
 **Hazırlayan:** Mücahit Topçuoğlu
+
 **Öğrenci No:** 2112721061
+
 **Github:** https://github.com/mucahit-topcuoglu/YoloV8_Nesne_Tespiti
